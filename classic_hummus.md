@@ -2,10 +2,10 @@
 Recipe initially from Hollis Potts
 
 ## Overview
-Hummus by boiling veggies with the chickpeas. Add seasoning
+Hummus by boiling veggies with the chickpeas. Prepare hummus with tahini garlic lemon. Add toppings as desired
 
 ## Ingredients
-- Dried Chickpeas, 1 Cup
+- Dried Chickpeas, 1 cup
 - Onion, whole yellow or white
 - Carrots, 2 medium (more to sweeten)
 - Garlic, 6 cloves
@@ -18,20 +18,20 @@ Hummus by boiling veggies with the chickpeas. Add seasoning
 - Food processor or blender
 
 ## Chickpea Prep
-- Chickpeas
-- Onion,     1 chopped in half + skinned
-- Carrot,    2 chopped in half
-- Garlic     5 Cloves
-- Baking Soda1 tbs
-- Salt       2 tbs
+- Chickpeas, 1 cup
+- Onion, 1 chopped in half + skinned
+- Carrot, 2 chopped in half
+- Garlic, 5 cloves
+- Baking Soda, 1 tbs
+- Salt,       2 tbs
 
 Let the Chickpeas soak overnight. One tbs ```Baking Soda```, one tbs ```Salt```  
 
 Next day, prep ```Onion```, ```Garlic```(all but one clove), and ```Carrot```  
-Drain/Wash chickpeas. Remove any malformed chickpeas  
-Add chickpeas to stock pot, cover with ~4 inches water. Add ```Onion```, ```Garlic```, ```Carrot```, One tbs ```Salt```  
+Drain/Wash chickpeas. Remove any malformed chickpeas.  
+Add chickpeas to stock pot, cover with ~4 inches water. Add ```Onion```, ```Garlic```, ```Carrot```, one tbs ```Salt```  
 Bring to a simmer. Simmer about 90 minutes, until soft. This depends on how long chickpeas were soaked. Should be able to mash somewhat easily between two fingers.  
-If using blender, softer is better  
+If using blender, softer is better.  
 
 Allow to cool in the broth. At least cool enough to handle comfortably.  
 
@@ -48,9 +48,7 @@ _Optional_: Secret to really creamy hummus is removing the peel of each chickpea
 This step takes a little while (10-15 min), but leads to ridiculously creamy hummus.  
 
 Add drained chickpeas, 1/4 cup stock, and garlic lemon tahini to food processor or blender.  
-
 Blend until smooth. Taste, add more tahini or lemon juice as necessary.  
-
 May be warm/soupy/runny. Will thicken in the fridge.  
 
 ## Toppings?
@@ -72,5 +70,3 @@ Bit of olive oil
 
 ## Questions?
 - Why Baking Soda for the overnight?
-- The original ratio for garlic/Lemon to chickpeas I found is off. Maybe 2 cups of chickpeas?
-- After a simmer for 3 hours, chickpeas were soft enough to mash easily between two fingers. Original Recipe states 5+ hours?
