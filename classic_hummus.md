@@ -9,8 +9,8 @@ Hummus by boiling veggies with the chickpeas. Add seasoning
 - Onion, whole yellow or white
 - Carrots, 2 medium (more to sweeten)
 - Garlic, 6 cloves
-- Lemon, 1 large or two small. ~3 tbs juice
-- Tahini, 2 heaping tbs
+- Lemon, 1 large or two small. ~3-4 tbs juice
+- Tahini, 2-3 heaping tbs
 - Salt, plenty
 - Baking Soda
 
@@ -23,14 +23,17 @@ Hummus by boiling veggies with the chickpeas. Add seasoning
 - Carrot, 2 chopped in half
 - Garlic 5 Cloves
 - Baking Soda, 1 tbs
+- Salt, 1 tbs
 
 Let the Chickpeas soak overnight. One tbs ```Baking Soda```, one tbs ```salt```  
 
 Next day, prep ```onion```, ```garlic```(all but one clove), and ```carrot```  
-Drain/Wash chickpeas.  
+Drain/Wash chickpeas. Remove any malformed chickpeas  
 Add chickpeas to stock pot, cover with ~4 inches water. Add ```onion```, ```garlic```, ```carrot```  
-Bring to a simmer, simmer about 3-5 hours until soft  
+Bring to a simmer. Simmer about 90 minutes, until soft. This depends on how long chickpeas were soaked. Should be able to mash somewhat easily between two fingers.  
 If using blender, softer is better  
+
+Allow to cool in the broth. At least cool enough to handle comfortably.  
 
 ## Hummus Prep
 - Previous stockpot
@@ -38,23 +41,34 @@ If using blender, softer is better
 - Lemon juice
 - Tahini
 
-Probably wait for stockpot to not be hot
+Remove vegetables. Bin 'em  
+Keep ~1 cup of stock while draining chickpeas  
 
-Using tongs, remove vegetables. Bin 'em  
-Keep ~2 cups of stock while draining chickpeas  
+_Optional_: Secret to really creamy hummus is removing the peel of each chickpea. Chickpeas from Fans will have softer peels, may not need to be removed.
+This step takes a little while (10-15 min), but leads to ridiculously creamy hummus.  
 
-Add drained chickpeas and other ingredients to food processor.
+Add drained chickpeas, 1/4 cup stock, and garlic lemon tahini to food processor or blender.  
 
-Whoop, there it is
+Blend until smooth. Taste, add more tahini or lemon juice as necessary.  
 
-If warm, will be soupy/runny. Will thicken in the fridge.
+May be warm/soupy/runny. Will thicken in the fridge.  
 
 ## Toppings?
-Pine nuts, parsley
+Pine nuts, parsley  
 
-Dash of paprika
+Dash of paprika  
 
-Bit of olive oil
+Bit of olive oil  
+
+## Variations
+
+### Curry
+- 1 tsp curry powder
+- 1 tsp cumin
+- Tried tumeric, not great
+
+### Roasted Garlic
+- replace 1 clove of garlic with 1 small bulb roasted garlic
 
 ## Questions?
 - Why Baking Soda for the overnight?
